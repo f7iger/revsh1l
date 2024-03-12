@@ -1,4 +1,5 @@
 # revsh1l
+ '''
      _____             _____ _    __ _ 
     |  __ \           / ____| |  /_ | |
     | |__) |_____   _| (___ | |__ | | |
@@ -6,6 +7,7 @@
     | | \ \  __/\ V / ____) | | | | | |
     |_|  \_\___| \_/ |_____/|_| |_|_|_|
 One line reverse shell
+'''
 
 <h2>Usage:</h2>
-<b>python3 revsh1l.py</b>
+<code> python3 revsh1l.py</code>
