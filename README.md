@@ -2,4 +2,6 @@
 One line reverse shell 
 
 ## Usage:
-<python3 revsh1l.py>
+'''
+python3 revsh1l.py>
+'''
