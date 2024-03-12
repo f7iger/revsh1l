@@ -1,13 +1,8 @@
-# revsh1l
- '''
-     _____             _____ _    __ _ 
-    |  __ \           / ____| |  /_ | |
-    | |__) |_____   _| (___ | |__ | | |
-    |  _  // _ \ \ / /\___ \| '_ \| | |
-    | | \ \  __/\ V / ____) | | | | | |
-    |_|  \_\___| \_/ |_____/|_| |_|_|_|
-One line reverse shell
-'''
+# RevSh1L
+One line reverse shell 
 
 <h2>Usage:</h2>
 <code> python3 revsh1l.py</code>
+
+<h3>To do</h3>
+- Add more reverse shells for each type of RevSh
